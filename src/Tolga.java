@@ -3,5 +3,6 @@ public class Tolga {
         System.out.println("Tolga deneme yaptik");
         System.out.println("2. deneme");
         System.out.println("3.deneme");
+        System.out.println("4.deneme");
     }
 }
