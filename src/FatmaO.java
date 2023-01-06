@@ -3,5 +3,6 @@ public class FatmaO {
         System.out.println("ilk");
         System.out.println("ikinci");
         System.out.println("ucuncu");
+        System.out.println("dorduncu");
     }
 }
