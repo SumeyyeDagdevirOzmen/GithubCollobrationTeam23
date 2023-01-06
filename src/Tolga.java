@@ -5,5 +5,6 @@ public class Tolga {
         System.out.println("3.deneme");
         System.out.println("4.deneme");
         System.out.println("5. deneme");
+        System.out.println("6. deneme");
     }
 }
