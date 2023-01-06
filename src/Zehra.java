@@ -4,5 +4,6 @@ public class Zehra {
 
         System.out.println("2.deneme" );
         System.out.println("deneme");
+        System.out.println("3. deneme");
     }
 }
