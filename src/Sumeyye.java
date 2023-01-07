@@ -7,7 +7,8 @@ public class Sumeyye {
 
         System.out.println("4.degisiklik yapildi");
 
-        System.out.println("4.degisiklik");
+
+
 
     }
 
